@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Enter name, fool"
+read name
+
+echo "And you're how many years?"
+read age
+
+echo "You are $name, $age year old mofo"

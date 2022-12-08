@@ -1,0 +1,19 @@
+#!/bin/bash
+
+name=$1
+
+read name2
+
+location=$(pwd)
+echo "Who is this sexy man, is it you, $name?"
+
+sleep 1
+
+echo "Looking like a whole meal today, aren't we, $name?"
+
+sleep 1
+
+echo "At least leave some survivors *wink* ;o, $name2 bwana!"
+
+sleep 1
+echo "Check for files in $location"
